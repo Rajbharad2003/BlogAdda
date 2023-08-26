@@ -9,7 +9,7 @@ const connectDB = async () => {
       useNewUrlParser: true,
     });
 
-    console.log('Gand Mar ma');
+    console.log('Chodina shanti rakh');
   } catch (err) {
     console.error(err.message);
     process.exit(1);
