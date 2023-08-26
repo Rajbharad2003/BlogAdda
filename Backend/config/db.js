@@ -9,7 +9,7 @@ const connectDB = async () => {
       useNewUrlParser: true,
     });
 
-    console.log('MongoDB');
+    console.log('Gand Mar ma');
   } catch (err) {
     console.error(err.message);
     process.exit(1);
